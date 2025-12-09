@@ -155,15 +155,7 @@ lib/
 
 ---
 
-## 📖 Documentation
 
-- **[SETUP.md](SETUP.md)** - Complete setup guide
-- **[ENV_SETUP.md](ENV_SETUP.md)** - Environment variables setup
-- **[GOOGLE_MAPS_SETUP.md](GOOGLE_MAPS_SETUP.md)** - Google Maps setup
-- **[KULLANIM_KILAVUZU.md](KULLANIM_KILAVUZU.md)** - User guide (Arabic)
-- **[database/README.md](database/README.md)** - Database guide
-
----
 
 ## 🗄️ Database Schema
 
@@ -289,4 +281,4 @@ For help or inquiries:
 
 ---
 
-**Made with ❤️ in Syria**
+**Made for Syria Simple **
